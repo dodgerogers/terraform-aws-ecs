@@ -1,0 +1,11 @@
+# Terraform files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+
+# Others
+*~
+*.swp
+*.DS_Store
+/**/secrets.tfvars
+secret.tfvars
